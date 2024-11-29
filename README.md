@@ -65,9 +65,3 @@
 <h6 align="left">Resume: http://surl.li/vyqyas</h6>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kumarwhocodes/kumarwhocodes/output/snake.svg" alt="Snake animation" />
-
-###
