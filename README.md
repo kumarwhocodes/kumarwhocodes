@@ -62,6 +62,6 @@
 
 ###
 
-<h6 align="left">Resume: http://surl.li/vyqyas</h6>
+<h3 align="left">Resume: http://surl.li/vyqyas</h3>
 
 ###
