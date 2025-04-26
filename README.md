@@ -23,7 +23,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="43" alt="spring logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="43" alt="graphql logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="43" alt="arduino logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="43" alt="ifttt logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="43" alt="firebase logo"  />
   <img width="10" />
@@ -38,6 +42,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="43" alt="androidstudio logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="43" alt="intellij logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="43" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="43" alt="gradle logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="43" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="43" alt="redis logo"  />
 </div>
 
 ###
@@ -62,6 +74,20 @@
 
 ###
 
-<h3 align="left">Resume: http://surl.li/vyqyas</h3>
+<h3 align="left">Resume: https://drive.google.com/file/d/1KVMJUiT_9334I8vO7Ta2U2CRZdVqv3dV/view?usp=sharing</h3>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/n7sxidpi4zubvfe94fuj1hlqe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=n7sxidpi4zubvfe94fuj1hlqe&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kumarwhocodes.kumarwhocodes&"  />
+</div>
 
 ###
