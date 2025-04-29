@@ -86,6 +86,4 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/kumarwhocodes/count.svg?"  />
-
 ###
