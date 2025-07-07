@@ -112,13 +112,3 @@
 
 ---
 
-### ✅ Achievements & Interests
-
-- 🏆 Finalist in multiple campus hackathons.
-- 🧠 System Design lover; builds scalable backends.
-- 🧪 Experiments with Kotlin Multiplatform, Flutter, and modern tools.
-- 🧑‍🏫 Regular mentor and tech speaker for juniors.
-- 🧩 Strong DSA with Java.
-- 🎮 Gamer | 🎵 Indie & Lo-fi addict | 🤖 Automation nerd (Arduino, IFTTT)
-
----
